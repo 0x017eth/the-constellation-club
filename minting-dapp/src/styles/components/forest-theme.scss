@@ -9,7 +9,7 @@
 }
 
 body {
-  @apply p-12;
+  @apply p-11;
   @apply min-h-screen;
 
   @apply font-sans;
@@ -161,7 +161,7 @@ label {
 
 #minting-dapp {
   @apply flex flex-col gap-3;
-  @apply mt-12 mx-auto;
+  @apply mt-10 mx-auto;
   @apply w-full;
   @apply max-w-3xl;
 
